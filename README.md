@@ -12,3 +12,10 @@ I am very Interested in **Ios Development**.
 | :mortar_board: <br/> **Education** | 2017. 03 ~ <br/> ing | Department of ComputerSystem | **InhaTechnical <br/> college** |
 | **External <br/> Training**| 2020. 07 ~ <br/> 2020. 08  | VR/AR Professional person Training | **Incheon <br/> TechnoPark** |
 
+## :book: Languages
+
+
+![SWIFT](https://img.shields.io/badge/SWIFT-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-blue?style=plastic&logo=Swift)
+![JAVA&ANDROID](https://img.shields.io/badge/JAVA%26ANDROID-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-green?style=plastic&logo=Android)
+
+[![JongPyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongPyoAhn)](https://github.com/JongPyoAhn/JongPyoAhn/)
