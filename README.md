@@ -9,6 +9,6 @@ I am very Interested in **Ios Development**.
 ## :airplane: Carrer
 | Type | Date | Contents | Organization|
 | :--: | :--: | :--: | :--: |
-| :mortar_board:  **Education** | 2017. 03 ~ ing | Department of ComputerSystem | **InhaTechnical college** |
-| **External  Training**| 2020. 07 ~ 2020. 08  | VR/AR Professional person Training | **Incheon TechnoPark** |
+| :mortar_board: <br/> **Education** | 2017. 03 ~ ing | Department of ComputerSystem | **InhaTechnical college** |
+| **External <br/> Training**| 2020. 07 ~ 2020. 08  | VR/AR Professional person Training | **Incheon TechnoPark** |
 
