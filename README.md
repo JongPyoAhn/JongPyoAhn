@@ -17,5 +17,7 @@ I am very Interested in **Ios Development**.
 
 ![SWIFT](https://img.shields.io/badge/SWIFT-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-blue?style=plastic&logo=Swift)
 ![JAVA&ANDROID](https://img.shields.io/badge/JAVA%26ANDROID-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-green?style=plastic&logo=Android)
+![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue?style=plastic&logo=Python)
+![JAVA](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-orange?style=plastic&logo=Java)
 
 [![JongPyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongPyoAhn)](https://github.com/JongPyoAhn/JongPyoAhn/)
