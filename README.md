@@ -22,3 +22,6 @@ I am very Interested in **Ios Development**.
 ![JAVA](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-orange?style=plastic&logo=Java)
 
 [![JongPyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongPyoAhn)](https://github.com/JongPyoAhn/JongPyoAhn/)
+
+# 
+<a href="mailto: whdvy95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-20c997?style=flat-square&logo=Gmail&logoColor=white"/></a>
