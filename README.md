@@ -6,7 +6,7 @@ My major is ComputerSystem.:computer:
 I have been experience using Swift & Ios, C# & Unity, Java & Android and Python.  
 I am very Interested in **Ios Development**. 
 
-## :airplane: Carrer
+## :airplane: Career
 | Type | Date | Contents | Organization|
 | :--: | :--: | :--: | :--: |
 | :mortar_board: <br/> **Education** | 2017. 03 ~ <br/> ing | Department of ComputerSystem | **InhaTechnical <br/> college** |
