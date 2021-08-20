@@ -11,7 +11,7 @@ I am very Interested in **Ios Development**.
 | :--: | :--: | :--: | :--: |
 | :mortar_board: <br/> **Education** | 2017. 03 ~ <br/> ing | Department of ComputerSystem | **InhaTechnical <br/> college** |
 | **External <br/> Training**| 2020. 07 ~ <br/> 2020. 08  | VR/AR Professional person Training | **Incheon <br/> TechnoPark** |
-| **External <br/> Lecture**| 2021.03 ~ </br> ing | IOS App Development | **FastCampus** |
+| **External <br/> Lecture**| 2021.03 ~ </br> 2021.07 | IOS App Development | **FastCampus** |
 
 ## :book: Languages
 
