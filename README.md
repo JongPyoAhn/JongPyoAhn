@@ -22,10 +22,8 @@ I am very Interested in **Ios Development**.
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue?style=plastic&logo=Python)
 ![JAVA](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-orange?style=plastic&logo=Java)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdvy3)](https://solved.ac/이름/whdvy3)
 [![JongPyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongPyoAhn)](https://github.com/JongPyoAhn/JongPyoAhn/)
 
 ## :rocket: Social
 <a href="mailto: whdvy95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdvy3)](https://solved.ac/이름/whdvy3)
-
