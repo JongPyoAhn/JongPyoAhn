@@ -9,9 +9,11 @@ I am very Interested in **Ios Development**.
 ## :airplane: Career
 | Type | Date | Contents | Organization|
 | :--: | :--: | :--: | :--: |
-| :mortar_board: <br/> **Education** | 2017. 03 ~ <br/> ing | Department of ComputerSystem | **InhaTechnical <br/> college** |
-| **External <br/> Training**| 2020. 07 ~ <br/> 2020. 08  | VR/AR Professional person Training | **Incheon <br/> TechnoPark** |
+| :mortar_board: <br/> **Education** | 2022. 02 ~ <br/> 2023.2 | Department of ComputerSystem <br/> (Intensified course completion of major)  | **InhaTechnical <br/> college** |
+| :mortar_board: <br/> **Education** | 2017. 02 ~ <br/> 2022.2 | Department of ComputerSystem | **InhaTechnical <br/> college** |
 | **External <br/> Lecture**| 2021.03 ~ </br> 2021.07 | IOS App Development | **FastCampus** |
+| **External <br/> Training**| 2020. 07 ~ <br/> 2020. 08  | VR/AR Professional person Training | **Incheon <br/> TechnoPark** |
+
 
 ## :book: Languages
 
@@ -26,4 +28,8 @@ I am very Interested in **Ios Development**.
 [![JongPyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongPyoAhn)](https://github.com/JongPyoAhn/JongPyoAhn/)
 
 ## :rocket: Social
-<a href="mailto: whdvy95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto: whdvy95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://instagram.com/a.jongpyo">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
