@@ -9,10 +9,8 @@ I am very Interested in **Ios Development**.
 ## :airplane: Career
 | Type | Date | Contents | Organization|
 | :--: | :--: | :--: | :--: |
-| :mortar_board: <br/> **Education** | 2022. 02 ~ <br/> 2023.2 | Department of ComputerSystem <br/> (Intensified course completion of major)  | **InhaTechnical <br/> college** |
-| :mortar_board: <br/> **Education** | 2017. 02 ~ <br/> 2022.2 | Department of ComputerSystem | **InhaTechnical <br/> college** |
-| **External <br/> Lecture**| 2021.03 ~ </br> 2021.07 | IOS App Development | **FastCampus** |
-| **External <br/> Training**| 2020. 07 ~ <br/> 2020. 08  | VR/AR Professional person Training | **Incheon <br/> TechnoPark** |
+| :mortar_board: <br/> **Education** | 2023. 08 ~ <br/> 2023.12 | Naver BoostCamp <br/> Membership  | **Naver </br>Connect** |
+| :mortar_board: <br/> **Education** | 2023. 07 ~ <br/> 2023.08 | Naver BoostCamp <br/> Challenge  | **Naver </br>Connect** |
 
 
 ## :book: Languages
